@@ -196,22 +196,6 @@ Developed a neural network trained on a self-collected dataset for push-up recog
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ris/giphy.gif" width="30"> &nbsp;`> GITHUB_ANALYTICS.render()`
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=drep2718&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff6ec7&icon_color=06b6d4&text_color=a855f7&border_color=a855f7&hide_border=false&count_private=true" />
-&nbsp;
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=drep2718&theme=radical&background=0d1117&ring=ff6ec7&fire=06b6d4&currStreakLabel=a855f7&sideLabels=ff6ec7&border=a855f7" />
-
-<br/><br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drep2718&layout=compact&theme=radical&bg_color=0d1117&title_color=ff6ec7&text_color=a855f7&border_color=a855f7&langs_count=8&hide_border=false" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## `> SNAKE.animate()`
 
 <div align="center">
