@@ -3,7 +3,7 @@
 <!-- HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec7,25:a855f7,50:06b6d4,75:a855f7,100:ff6ec7&height=220&section=header&text=AIDEN%20DREPANIOTIS&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Hardware%20Engineer%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Systems%20Programmer&descSize=18&descAlignY=55&descAlign=50"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+hardware+%2B+software+engineer;%3E+from+RTL+to+React+%E2%80%94+I+build+the+full+stack;%3E+closer+to+the+metal+than+your+compiler" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+hardware+%2B+software+engineer;%3E+systems+programmer+%7C+full+stack+builder;%3E+closer+to+the+metal+than+your+compiler" alt="Typing SVG" /></a>
 
 <br/>
 
