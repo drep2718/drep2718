@@ -13,10 +13,6 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/%F0%9F%93%8D-West_Lafayette,_IN-ff6ec7?style=flat-square"/>
-
-<br/><br/>
-
 <a href="https://aidendrepaniotis.com"><img src="https://img.shields.io/badge/Portfolio-aidendrepaniotis.com-ff6ec7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/aiden-drepaniotis/"><img src="https://img.shields.io/badge/LinkedIn-Aiden_Drepaniotis-a855f7?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:aidendrepaniotis@gmail.com"><img src="https://img.shields.io/badge/Email-aidendrepaniotis@gmail.com-06b6d4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -30,25 +26,19 @@
 &nbsp;
 <img src="https://img.shields.io/github/stars/drep2718?style=for-the-badge&color=06b6d4&labelColor=1a1a2e&label=STARS"/>
 
-</div>
+<br/><br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## `> PINNED_REPOS.ls()`
-
-<div align="center">
-
-<a href="https://github.com/drep2718/sofa-gdl"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=drep2718&repo=sofa-gdl&theme=radical&bg_color=0d1117&title_color=ff6ec7&icon_color=06b6d4&text_color=a855f7&border_color=a855f7&hide_border=false" /></a>
+<a href="https://github.com/drep2718/sofa-gdl"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=drep2718&repo=sofa-gdl&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&border_color=30363d&hide_border=false" /></a>
 &nbsp;
-<a href="https://github.com/drep2718/left-leaning-red-black-tree-visualizer"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=drep2718&repo=left-leaning-red-black-tree-visualizer&theme=radical&bg_color=0d1117&title_color=ff6ec7&icon_color=06b6d4&text_color=a855f7&border_color=a855f7&hide_border=false" /></a>
+<a href="https://github.com/drep2718/left-leaning-red-black-tree-visualizer"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=drep2718&repo=left-leaning-red-black-tree-visualizer&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&border_color=30363d&hide_border=false" /></a>
 
-<a href="https://github.com/purdue-arc/sphero-swarm"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=purdue-arc&repo=sphero-swarm&theme=radical&bg_color=0d1117&title_color=ff6ec7&icon_color=06b6d4&text_color=a855f7&border_color=a855f7&hide_border=false" /></a>
+<a href="https://github.com/purdue-arc/sphero-swarm"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=purdue-arc&repo=sphero-swarm&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&border_color=30363d&hide_border=false" /></a>
 &nbsp;
-<a href="https://github.com/drep2718/sightplay"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=drep2718&repo=sightplay&theme=radical&bg_color=0d1117&title_color=ff6ec7&icon_color=06b6d4&text_color=a855f7&border_color=a855f7&hide_border=false" /></a>
+<a href="https://github.com/drep2718/sightplay"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=drep2718&repo=sightplay&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&border_color=30363d&hide_border=false" /></a>
 
-<a href="https://github.com/drep2718/markets"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=drep2718&repo=markets&theme=radical&bg_color=0d1117&title_color=ff6ec7&icon_color=06b6d4&text_color=a855f7&border_color=a855f7&hide_border=false" /></a>
+<a href="https://github.com/drep2718/markets"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=drep2718&repo=markets&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&border_color=30363d&hide_border=false" /></a>
 &nbsp;
-<a href="https://github.com/drep2718/personal-website"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=drep2718&repo=personal-website&theme=radical&bg_color=0d1117&title_color=ff6ec7&icon_color=06b6d4&text_color=a855f7&border_color=a855f7&hide_border=false" /></a>
+<a href="https://github.com/drep2718/personal-website"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=drep2718&repo=personal-website&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&border_color=30363d&hide_border=false" /></a>
 
 </div>
 
