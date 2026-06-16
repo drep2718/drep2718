@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec7,25:a855f7,50:06b6d4,75:a855f7,100:ff6ec7&height=220&section=header&text=AIDEN%20DREPANIOTIS&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Systems%20%E2%80%A2%20Hardware%20%E2%80%A2%20Machine%20Learning&descSize=18&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec7,25:a855f7,50:06b6d4,75:a855f7,100:ff6ec7&height=220&section=header&text=AIDEN%20DREPANIOTIS&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Hardware%20Engineer%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Systems%20Programmer&descSize=18&descAlignY=55&descAlign=50"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+systems+programmer+%7C+hardware+engineer;%3E+closer+to+the+metal+than+your+compiler" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+hardware+%2B+software+engineer;%3E+from+RTL+to+React+%E2%80%94+I+build+the+full+stack;%3E+closer+to+the+metal+than+your+compiler" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -41,9 +41,9 @@
  ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-**Low-level systems engineer** studying Computer Science and Mathematics at Purdue University, specializing in the **Systems Programming & Security** track. I work closest to the hardware — designing **FPGA accelerators** in SystemVerilog, writing **bare-metal C/C++**, and building performance-critical software where every clock cycle counts.
+**Hardware and software engineer** studying Computer Science and Mathematics at Purdue University, specializing in the **Systems Programming & Security** track. I design digital logic on **FPGAs** in SystemVerilog and ship production software in **TypeScript, React, and AWS** — I'm just as comfortable writing RTL as I am building cloud infrastructure.
 
-My work spans from custom floating-point pipelines on reconfigurable hardware to geometric deep learning research pushing the boundaries of computational mathematics. I care about **computer architecture**, **memory hierarchies**, **compiler internals**, and understanding exactly what the machine is doing beneath every abstraction.
+On the hardware side: custom **floating-point units**, **pipelined datapaths**, and bare-metal C/C++ on embedded microcontrollers. On the software side: **60+ production features** shipped across full-stack web platforms, **gRPC microservice architectures**, and **AWS Step Function pipelines**. I care about **computer architecture**, **memory hierarchies**, **compiler internals**, and understanding exactly what the machine is doing beneath every abstraction.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -89,17 +89,18 @@ My work spans from custom floating-point pipelines on reconfigurable hardware to
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> &nbsp;`> SYSTEMS.expertise()`
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> &nbsp;`> ENGINEERING.expertise()`
 
 <div align="center">
 
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
-| **Hardware Acceleration** | `████████████░` | FPGA synthesis, pipelined FPU design, SystemVerilog RTL |
+| **Hardware Design** | `████████████░` | FPGA synthesis, pipelined FPU design, SystemVerilog RTL |
 | **Systems Programming** | `████████████░` | C/C++, memory management, OS internals, bare-metal embedded |
+| **Full-Stack Development** | `████████████░` | React, TypeScript, Node.js, GraphQL, gRPC, AWS CDK |
+| **Cloud & Infrastructure** | `█████████░░░` | AWS Lambda, Step Functions, DynamoDB, S3, Docker |
 | **Computer Architecture** | `█████████░░░` | Cache hierarchies, instruction pipelines, microarchitecture |
 | **Geometric Deep Learning** | `████████████░` | Symmetry groups, equivariant networks, B-spline optimization |
-| **Computer Vision** | `█████████░░░` | MediaPipe, OpenCV, real-time pose estimation |
 | **Compiler & OS Design** | `████████░░░░` | Lexing, parsing, code generation, kernel fundamentals |
 
 </div>
@@ -116,12 +117,14 @@ My work spans from custom floating-point pipelines on reconfigurable hardware to
  │   just use abstractions, I build them.                          │
  │                                                                 │
  │   > Writing RTL that synthesizes to silicon                     │
- │   > Profiling cache misses, not just Big-O                      │
+ │   > Shipping production features in React & TypeScript          │
  │   > Designing pipelines measured in nanoseconds                 │
+ │   > Orchestrating cloud infrastructure on AWS                   │
  │   > Turning mathematical theory into working hardware           │
  │                                                                 │
  │   If it runs on a CPU, I want to know what it's actually doing. │
  │   If it's too slow on a CPU, I'll put it on an FPGA.            │
+ │   If it needs to scale, I'll build the cloud pipeline.          │
  │                                                                 │
  └─────────────────────────────────────────────────────────────────┘
 ```
