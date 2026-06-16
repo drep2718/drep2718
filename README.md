@@ -13,32 +13,12 @@
 
 <br/><br/>
 
-<table>
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/drep2718/sofa-gdl"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=drep2718&repo=sofa-gdl&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&border_color=30363d&hide_border=false&description_lines_count=2" /></a>
-</td>
-<td width="50%" align="center">
-<a href="https://github.com/drep2718/left-leaning-red-black-tree-visualizer"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=drep2718&repo=left-leaning-red-black-tree-visualizer&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&border_color=30363d&hide_border=false&description_lines_count=2" /></a>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/purdue-arc/sphero-swarm"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=purdue-arc&repo=sphero-swarm&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&border_color=30363d&hide_border=false&description_lines_count=2" /></a>
-</td>
-<td width="50%" align="center">
-<a href="https://github.com/drep2718/sightplay"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=drep2718&repo=sightplay&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&border_color=30363d&hide_border=false&description_lines_count=2" /></a>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/drep2718/markets"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=drep2718&repo=markets&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&border_color=30363d&hide_border=false&description_lines_count=2" /></a>
-</td>
-<td width="50%" align="center">
-<a href="https://github.com/drep2718/personal-website"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=drep2718&repo=personal-website&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&border_color=30363d&hide_border=false&description_lines_count=2" /></a>
-</td>
-</tr>
-</table>
+<a href="https://github.com/drep2718/sofa-gdl"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=drep2718&repo=sofa-gdl&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&border_color=30363d&hide_border=false&description_lines_count=3" /></a>
+<a href="https://github.com/drep2718/left-leaning-red-black-tree-visualizer"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=drep2718&repo=left-leaning-red-black-tree-visualizer&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&border_color=30363d&hide_border=false&description_lines_count=3" /></a>
+<a href="https://github.com/purdue-arc/sphero-swarm"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=purdue-arc&repo=sphero-swarm&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&border_color=30363d&hide_border=false&description_lines_count=3" /></a>
+<a href="https://github.com/drep2718/sightplay"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=drep2718&repo=sightplay&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&border_color=30363d&hide_border=false&description_lines_count=3" /></a>
+<a href="https://github.com/drep2718/markets"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=drep2718&repo=markets&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&border_color=30363d&hide_border=false&description_lines_count=3" /></a>
+<a href="https://github.com/drep2718/personal-website"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=drep2718&repo=personal-website&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=8b949e&border_color=30363d&hide_border=false&description_lines_count=3" /></a>
 
 <br/>
 
