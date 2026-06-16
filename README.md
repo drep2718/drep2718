@@ -27,13 +27,6 @@
 <a href="mailto:aidendrepaniotis@gmail.com"><img src="https://img.shields.io/badge/Email-aidendrepaniotis@gmail.com-06b6d4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/drep2718"><img src="https://img.shields.io/badge/GitHub-drep2718-ff6ec7?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=drep2718&style=for-the-badge&color=ff6ec7&label=PROFILE+VIEWS"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/drep2718?style=for-the-badge&color=a855f7&labelColor=1a1a2e&label=FOLLOWERS"/>
-&nbsp;
-<img src="https://img.shields.io/github/stars/drep2718?style=for-the-badge&color=06b6d4&labelColor=1a1a2e&label=STARS"/>
 
 </div>
 
@@ -110,67 +103,6 @@ My work spans from custom floating-point pipelines on reconfigurable hardware to
 | **Compiler & OS Design** | `████████░░░░` | Lexing, parsing, code generation, kernel fundamentals |
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;`> FEATURED_PROJECTS.render()`
-
-<details>
-<summary><b>⚡ FPGA Black-Scholes Pricing Engine</b></summary>
-<br/>
-
-> *Custom floating-point hardware for sub-microsecond computation*
-
-| Attribute | Details |
-|:---|:---|
-| **Stack** | `SystemVerilog` `C++` `FPGA` `ESP32` |
-| **Architecture** | Custom FPU with pipelined arithmetic stages for parallel throughput |
-| **Performance** | Sub-microsecond latency — orders of magnitude faster than software |
-| **Validation** | Benchmarked against C++ software implementation on ESP32 microcontroller |
-| **Impact** | Demonstrates hardware-software co-design for latency-critical compute |
-| **Repository** | [github.com/drep2718](https://github.com/drep2718) |
-
-Designed and synthesized a complete floating-point unit on an FPGA implementing Black-Scholes from gate-level up. Built a fully pipelined datapath for parallel computation, achieving sub-microsecond latency. Cross-validated against a C++ reference implementation on an ESP32 to verify numerical correctness.
-
-</details>
-
-<details>
-<summary><b>🔮 Moving Sofa Problem — Geometric Deep Learning</b></summary>
-<br/>
-
-> *Differentiable geometry meets deep learning on a 58-year-old unsolved problem*
-
-| Attribute | Details |
-|:---|:---|
-| **Stack** | `Python` `PyTorch` `Geometric Deep Learning` `B-Splines` |
-| **Scale** | 6 GDL configurations swept across basis functions, resolutions, and symmetry groups |
-| **Performance** | 93.5% recovery of Gerver's conjectured area (2.075 vs. 2.2195) |
-| **Validation** | Feasibility verified across 3,600 rotation angles |
-| **Impact** | Novel computational approach to Moser's 1966 open problem |
-| **Repository** | [github.com/drep2718/sofa-gdl](https://github.com/drep2718/sofa-gdl) |
-
-Developed a differentiable shape optimizer parameterizing sofa boundaries as polar B-splines. Derived the correct **Z/2Z hallway symmetry group** action on polar coordinates and systematically explored GDL configurations to identify optimal inductive biases.
-
-</details>
-
-<details>
-<summary><b>🏋️ Push-Up Counter — Real-Time ML Pose Estimation</b></summary>
-<br/>
-
-> *Neural network-powered exercise form analysis using computer vision*
-
-| Attribute | Details |
-|:---|:---|
-| **Stack** | `Python` `Keras` `MediaPipe` `OpenCV` |
-| **Scale** | Self-collected training dataset, real-time inference |
-| **Performance** | Real-time pose tracking and classification |
-| **Features** | Form correction, position classification, accurate rep counting |
-| **Impact** | End-to-end ML pipeline from data collection to deployment |
-| **Repository** | [github.com/drep2718](https://github.com/drep2718) |
-
-Developed a neural network trained on a self-collected dataset for push-up recognition and form correction. Integrated MediaPipe's Pose model for real-time body tracking and applied ML classification to detect improper form and ensure accurate counting.
-
-</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
